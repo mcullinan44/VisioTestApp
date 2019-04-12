@@ -1,0 +1,7 @@
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\bin\Debug\VisioTestAppOfficeInteropNative.exe.config
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\bin\Debug\VisioTestAppOfficeInteropNative.exe
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\bin\Debug\VisioTestAppOfficeInteropNative.pdb
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\obj\Debug\VisioTestAppOfficeInteropNative.csprojAssemblyReference.cache
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\obj\Debug\VisioTestAppOfficeInteropNative.csproj.CoreCompileInputs.cache
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\obj\Debug\VisioTestAppOfficeInteropNative.exe
+C:\Users\mcullinan\Source\Repos\VisioCreationTools\VisioTestAppOfficeInteropNative\obj\Debug\VisioTestAppOfficeInteropNative.pdb
